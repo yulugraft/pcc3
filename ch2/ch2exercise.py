@@ -34,3 +34,26 @@ print("strip():", name_with_space.strip()) # So strip() does not work on \n?!?!
 
 filename = 'python_file.txt'
 print("The file name (without the suffix) is: ", filename.removesuffix('.txt'))
+
+print("######################################################################")
+
+#  2-9 Number Eight
+print(4 + 4)
+print(12 - 4)
+print(4 * 2)
+print(32 / 4)
+
+# 2-10 Favourite Number
+fav_num = 5
+print("My favourite number is:", fav_num)
+
+print("######################################################################")
+
+# 2-11 Comments
+#  This is nice program that writes my name in the console!
+print("MY NAME HAHAHAHAHAHA!")
+
+print("######################################################################")
+
+# 2-12 Zen of Python  by Tim Peters
+import this
